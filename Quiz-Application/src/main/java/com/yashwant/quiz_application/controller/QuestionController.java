@@ -18,6 +18,8 @@ import com.yashwant.quiz_application.service.impl.QuestionServiceImpl;
 import com.yashwant.quiz_application.util.ApiResponse;
 import com.yashwant.quiz_application.util.PageResponse;
 
+import jakarta.validation.Valid;
+
 @RestController
 @RequestMapping("/question/")
 public class QuestionController {
@@ -26,13 +28,13 @@ public class QuestionController {
 	private QuestionServiceImpl questionService;
 	
 	@PostMapping("/addQuestion")
-	public ResponseEntity<QuestionDto>addQuestion(@RequestBody QuestionDto questionDto)
+	public ResponseEntity<QuestionDto>addQuestion(@Valid @RequestBody QuestionDto questionDto)
 	{
 		QuestionDto question = questionService.createQuestion(questionDto);
 		return new ResponseEntity<>(question, HttpStatus.OK);
 	}
 	@PutMapping("/updateQuestion/{questionId}")
-	public ResponseEntity<QuestionDto>updateQuestion(@RequestBody QuestionDto questionDto, 
+	public ResponseEntity<QuestionDto>updateQuestion(@Valid @RequestBody QuestionDto questionDto, 
 			@PathVariable String questionId)
 	{
 		QuestionDto question = questionService.updateQuestion(questionId, questionDto);

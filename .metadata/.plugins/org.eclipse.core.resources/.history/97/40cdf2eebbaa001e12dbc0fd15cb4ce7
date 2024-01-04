@@ -1,0 +1,149 @@
+package com.yashwant.quiz_application.service.impl;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.UUID;
+
+import org.modelmapper.ModelMapper;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Sort;
+import org.springframework.http.HttpStatus;
+import org.springframework.stereotype.Service;
+
+import com.yashwant.quiz_application.dtos.QuestionDto;
+import com.yashwant.quiz_application.entity.Question;
+import com.yashwant.quiz_application.exceptions.ResourceNotFoundException;
+import com.yashwant.quiz_application.repository.QuestionRepo;
+import com.yashwant.quiz_application.service.QuestionService;
+import com.yashwant.quiz_application.util.ApiResponse;
+import com.yashwant.quiz_application.util.PageResponse;
+import org.springframework.data.domain.Pageable;
+
+@Service
+public class QuestionServiceImpl implements QuestionService {
+	
+	@Autowired
+	private QuestionRepo questionRepo;
+	
+	@Autowired
+	private ModelMapper mapper;
+	
+
+	@Override
+	public QuestionDto createQuestion(QuestionDto questionDto) {
+		// TODO Auto-generated method stub
+		String questionId = UUID.randomUUID().toString();
+		questionDto.setQuestionId(questionId);
+		Question question = mapper.map(questionDto, Question.class);
+		Question newQuestion = questionRepo.save(question);
+		return mapper.map(newQuestion, QuestionDto.class);
+	}
+
+	@Override
+	public QuestionDto updateQuestion(String questionId, QuestionDto questionDto) {
+		// TODO Auto-generated method stub
+		Question question = questionRepo.findById(questionId).orElseThrow(()-> new 
+				ResourceNotFoundException("Resource not found for given id : " + questionId));
+		question.setCategory(questionDto.getCategory());
+		question.setDifficultLevel(questionDto.getDifficultLevel());
+		question.setOption1(questionDto.getOption1());
+		question.setOption2(questionDto.getOption2());
+		question.setOption3(questionDto.getOption3());
+		question.setOption4(questionDto.getOption4());
+		question.setQuestionTitle(questionDto.getQuestionTitle());
+		question.setRightAnswer(questionDto.getRightAnswer());
+		Question updatedQuestion = questionRepo.save(question);
+		return mapper.map(updatedQuestion, QuestionDto.class);
+	}
+
+	@Override
+	public ApiResponse deleteQuestion(String questionId) {
+		// TODO Auto-generated method stub
+		Question question = questionRepo.findById(questionId).orElseThrow(()-> new 
+				ResourceNotFoundException("Resource not found for given id : " + questionId));
+		questionRepo.delete(question);
+		ApiResponse response = new ApiResponse();
+		response.setMessage("Question deleted for given id : " + questionId);
+		response.setSuccess(true);
+		response.setStatus(HttpStatus.OK);
+		return response;
+	}
+
+	@Override
+	public QuestionDto getQuestionById(String questionId) {
+		// TODO Auto-generated method stub
+		Question question = questionRepo.findById(questionId).orElseThrow(()-> new 
+				ResourceNotFoundException("Resource not found for given id : " + questionId));
+		return mapper.map(question, QuestionDto.class);
+	}
+
+	@Override
+	public PageResponse<QuestionDto> getAllQuestion(int pageNumber, int pageSize, String sortBy, String sortDir) {
+		// TODO Auto-generated method stub
+		Sort sort = null;
+		if(sortDir.equalsIgnoreCase("asc"))
+		{
+			sort = Sort.by(sortBy).ascending();
+		}
+		else 
+		{
+			sort = Sort.by(sortBy).descending();
+			
+		}
+		Pageable pageable = PageRequest.of(pageNumber, pageSize, sort);
+		Page<Question>page = questionRepo.findAll(pageable);
+		List<Question>question = page.getContent();
+		
+		List<QuestionDto>list = new ArrayList<>();
+		for(Question q : question)
+		{
+			QuestionDto qDto = mapper.map(q, QuestionDto.class);
+			list.add(qDto);
+		}
+		PageResponse<QuestionDto>response = new PageResponse<>();
+		response.setContent(list);
+		response.setLastPage(page.isLast());
+		response.setPageNumber(page.getNumber());
+		response.setPageSize(page.getSize());
+		response.setTotalElements((int)page.getTotalElements());
+		response.setTotalPages(page.getTotalPages());
+		return response;
+	}
+
+	@Override
+	public PageResponse<QuestionDto> getQuestionByCategory(String category,
+			int pageNumber, int pageSize, String sortBy, String sortDir) {
+		// TODO Auto-generated method stub
+		Sort sort = null;
+		if(sortDir.equalsIgnoreCase("asc"))
+		{
+			sort = Sort.by(sortBy).ascending();
+		}
+		else 
+		{
+			sort = Sort.by(sortBy).descending();
+		}
+		Pageable pageable = PageRequest.of(pageNumber, pageSize, sort);
+		Page<Question>page = questionRepo.findByCategory(pageable);
+		List<Question>question = page.getContent();
+		List<QuestionDto>list = new ArrayList<>();
+		for(Question q : question)
+		{
+			QuestionDto qDto = mapper.map(q, QuestionDto.class);
+			list.add(qDto);
+		}
+		PageResponse<QuestionDto>response 
+		
+		return null;
+	}
+
+	@Override
+	public PageResponse<QuestionDto> getQuestionByLevel(String level,
+			int pageNumber, int pageSize, String sortBy, String sortDir) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

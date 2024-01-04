@@ -1,0 +1,17 @@
+package com.yashwant.quiz_application.service;
+
+import com.yashwant.quiz_application.dtos.QuestionDto;
+import com.yashwant.quiz_application.util.ApiResponse;
+import com.yashwant.quiz_application.util.PageResponse;
+
+public interface QuestionService {
+	
+	public QuestionDto createQuestion(QuestionDto questionDto);
+	public QuestionDto updateQuestion(String questionId, QuestionDto questionDto);
+	public ApiResponse deleteQuestion(String questionId);
+	public QuestionDto getQuestionById(String questionId);
+	public PageResponse<QuestionDto>getAllQuestion();
+	public PageResponse<QuestionDto>getQuestionByCategory(String category);
+	
+
+}

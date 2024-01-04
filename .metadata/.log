@@ -130,3 +130,2222 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:48:11.422
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:48:15.978
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:48:21.112
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:48:50.219
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:48:54.840
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:49:01.827
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:49:05.991
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:49:08.098
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:49:11.186
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:49:13.372
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:51:20.706
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:51:31.410
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:51:36.930
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:51:45.580
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:51:52.786
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:51:56.001
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:52:00.377
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:52:07.154
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:52:10.996
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:52:15.512
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:52:19.721
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:52:27.135
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:52:33.615
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:52:39.854
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:53:17.354
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:53:20.536
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:53:23.799
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:53:25.935
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:53:31.092
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:53:38.505
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:54:22.345
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:54:26.691
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:54:58.683
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:55:04.238
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:55:07.435
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:55:09.579
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:55:19.760
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:55:46.445
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:56:00.837
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:56:09.578
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:56:14.021
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:56:16.142
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:56:58.544
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:06.171
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:12.891
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:17.001
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:20.136
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:24.341
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:26.450
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:33.405
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:38.334
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:43.927
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:50.156
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:57:55.000
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:02.331
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:08.951
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:13.605
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:15.678
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:19.868
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:26.979
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:29.098
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:31.161
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:41.828
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:50.802
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:58:55.343
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:59:00.477
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:59:33.511
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:59:40.526
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 07:59:53.652
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:00:02.267
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 08:00:02.556
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:00:07.967
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:00:16.903
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:00:24.376
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:04.667
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:07.767
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:13.442
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:15.616
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:19.804
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:21.909
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:30.831
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:34.058
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:36.260
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:40.565
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:44.668
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:51.404
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:01:54.925
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:02:19.798
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:02:24.866
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:02:29.035
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:02:33.305
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:02:36.367
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:02:39.526
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:02:43.166
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:02:54.325
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:02:59.210
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:03:03.796
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:03:07.196
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:03:12.357
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:03:17.474
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:03:21.795
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:03:26.389
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:04:43.106
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:04:46.276
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:04:49.857
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:05:23.256
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:05:37.566
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:05:48.596
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:05:50.668
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:05:59.482
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:03.603
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:15.570
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:17.641
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:19.808
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:23.059
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:35.960
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:40.444
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:44.546
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:48.993
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:06:54.228
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:07:51.857
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:07:57.949
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:01.543
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:05.692
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:09.865
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:15.706
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:22.329
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:31.208
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:37.580
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:41.863
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:47.060
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:50.195
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:08:56.395
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:09:00.608
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:09:35.552
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:10:33.023
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:10:38.428
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:15:02.703
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:15:07.335
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:15:10.502
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:15:12.704
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:15:34.273
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:16:01.168
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:16:09.956
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 08:16:10.010
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:16:14.185
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:16:17.295
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:16:20.825
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:16:34.079
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:16:37.203
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:16:48.283
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:16:53.125
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:07.392
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:11.624
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:15.557
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:18.718
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:22.924
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:27.846
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:33.330
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:36.518
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:39.714
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:42.841
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:44.947
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:51.867
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:19:59.092
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:20:10.885
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:20:19.182
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:20:29.532
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:20:34.917
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:20:40.787
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:20:43.882
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:20:55.819
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:21:03.167
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:21:06.281
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:21:41.693
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 08:21:45.596
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:02:41.271
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:03:42.164
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:03:42.336
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 09:03:42.554
+!MESSAGE Could not get hover region due to timeout after 1000 miliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:155)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:03:42.768
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:03:49.027
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:03:50.084
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:04:09.542
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:04:17.811
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:04:22.495
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:04:54.030
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:04:59.596
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:05:07.698
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:05:13.005
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:05:26.413
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 09:05:26.730
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:05:32.178
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:05:51.403
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:06:05.547
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:07:52.482
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:07:59.311
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:08:01.653
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:08:06.666
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:08:09.488
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 09:08:10.760
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:08:18.536
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 09:08:19.079
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 09:08:22.439
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:08:22.788
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:08:35.378
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:08:41.768
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:08:48.569
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:09:01.836
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:09:15.437
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:09:18.738
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:09:32.599
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:09:39.315
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:09:46.297
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:09:51.768
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:09:58.890
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:10:25.804
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:10:31.965
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:10:33.097
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:10:37.467
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:10:46.197
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:12:03.768
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:12:08.448
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:12:37.349
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:14:40.520
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:14:56.909
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:15:05.505
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:15:11.777
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:15:38.003
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:15:40.149
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:15:47.565
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:15:49.913
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:16:01.897
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:16:05.866
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:16:14.835
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:16:18.082
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:16:23.434
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:16:32.480
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:16:56.932
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:17:20.799
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:17:38.974
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:17:41.100
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:19:01.823
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:19:06.617
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:19:16.404
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:19:24.187
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:19:43.384
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:20:30.303
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:20:39.027
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:20:44.428
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:10.190
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:14.383
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:17.518
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:23.720
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:27.224
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:30.740
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:37.055
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:40.550
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:42.676
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:24:51.455
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:25:03.018
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:25:06.184
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:25:20.647
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:25:35.705
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:25:58.914
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:26:42.935
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:26:46.823
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:27:16.649
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:29:50.718
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:29:56.218
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:30:01.432
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:30:06.190
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:30:12.567
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:30:20.827
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:30:31.111
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:30:37.198
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:30:42.733
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:30:45.899
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:31:38.349
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:31:40.483
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:31:43.836
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:31:50.815
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:31:55.962
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:31:58.076
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:32:03.106
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:32:06.237
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:32:20.023
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:32:37.528
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:32:53.041
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:32:58.779
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:33:01.886
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:33:13.965
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:33:16.021
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:33:22.742
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:33:25.195
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:33:50.761
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:33:58.823
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:34:37.956
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:34:53.052
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:35:02.704
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:36:10.173
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:36:16.614
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:36:29.037
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:36:39.537
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:36:48.544
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:36:59.520
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:37:06.022
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:37:18.344
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:37:35.977
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:37:44.348
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:37:47.711
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:37:55.780
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:37:59.492
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:38:04.352
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:38:22.784
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.jdt.core 4 4 2024-01-04 09:38:25.163
+!MESSAGE Could not retrieve superclass
+!STACK 0
+org.eclipse.jdt.internal.compiler.problem.AbortCompilation: Pb(347) The type org.springframework.hateoas.RepresentationModel cannot be resolved. It is indirectly referenced from required type org.springframework.data.domain.jaxb.SpringDataJaxb.PageDto
+	at org.eclipse.jdt.internal.compiler.problem.ProblemHandler.handle(ProblemHandler.java:162)
+	at org.eclipse.jdt.internal.compiler.problem.ProblemHandler.handle(ProblemHandler.java:229)
+	at org.eclipse.jdt.internal.compiler.problem.ProblemReporter.handle(ProblemReporter.java:2682)
+	at org.eclipse.jdt.internal.compiler.problem.ProblemReporter.isClassPathCorrect(ProblemReporter.java:5170)
+	at org.eclipse.jdt.internal.compiler.lookup.UnresolvedReferenceBinding.resolve(UnresolvedReferenceBinding.java:125)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.resolveType(BinaryTypeBinding.java:251)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.superclass(BinaryTypeBinding.java:2372)
+	at org.eclipse.jdt.core.dom.TypeBinding.getSuperclass(TypeBinding.java:857)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsSubProcessor.isInherited(UnresolvedElementsSubProcessor.java:944)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsSubProcessor.addSimilarTypeProposals(UnresolvedElementsSubProcessor.java:912)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsSubProcessor.getTypeProposals(UnresolvedElementsSubProcessor.java:683)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.process(QuickFixProcessor.java:424)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.getCorrections(QuickFixProcessor.java:361)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionCollector.safeRun(JavaCorrectionProcessor.java:381)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.run(JavaCorrectionProcessor.java:341)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.process(JavaCorrectionProcessor.java:336)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor.collectCorrections(JavaCorrectionProcessor.java:465)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getJavaAnnotationFixes(ProblemHover.java:115)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.computeCompletionProposals(ProblemHover.java:89)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.<init>(ProblemHover.java:74)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover.createAnnotationInfo(ProblemHover.java:178)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover.getHoverInfo2(AbstractAnnotationHover.java:755)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:38:33.882
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:39:28.328
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:39:30.523
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:39:49.633
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:39:53.407
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:40:05.060
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:40:12.700
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:40:19.928
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:42:30.333
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:42:34.633
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:42:38.191
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:42:48.999
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:42:53.383
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:43:05.368
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:43:11.898
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:43:13.997
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:43:33.240
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:43:37.480
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:44:10.984
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:44:14.530
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:44:17.621
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:44:21.760
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:44:24.979
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:45:04.712
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:45:07.091
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:48:10.543
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:51:38.138
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:51:46.569
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:52:41.572
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:52:56.565
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:53:48.157
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:53:52.886
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:54:10.613
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:54:16.496
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 09:54:30.719
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:00:38.972
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:00:41.177
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:00:46.138
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:00:53.494
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:00:55.634
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:01:00.331
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:01:03.497
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:01:13.155
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:02:55.888
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:04:32.676
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:04:34.864
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:04:59.753
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:05:06.478
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:05:21.823
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:05:33.429
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:05:38.607
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:05:57.036
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:06:21.456
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:07:10.071
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:07:17.066
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:07:20.270
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:07:39.197
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:07:46.322
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:07:49.595
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:07:58.515
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:08:06.698
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:08:08.875
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:08:16.269
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:08:20.485
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:08:36.314
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:08:50.291
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:08:55.494
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:08:59.695
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:09:04.314
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:09:09.284
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:09:17.622
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:09:25.893
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:09:31.593
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:09:44.466
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:12:07.568
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:12:11.760
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:12:16.072
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:12:32.547
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:12:37.277
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:12:44.527
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:13:11.437
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:13:49.024
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:13:51.325
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:13:55.051
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:13:59.354
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:14:09.025
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:14:12.627
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:14:24.760
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:14:36.943
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:15:38.242
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:15:41.432
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:16:04.643
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:16:13.443
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:17:11.155
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:17:40.493
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:17:44.613
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:17:52.150
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:18:22.444
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:18:24.571
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:18:44.374
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:18:51.987
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:19:08.561
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 10:19:08.764
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:19:12.158
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:19:47.412
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:20:00.832
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:20:04.715
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:20:06.887
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 10:20:07.044
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:20:10.949
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:20:13.043
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 10:20:16.494
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:16:43.480
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:16:56.069
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:04.832
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:15.418
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:19.999
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:23.071
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:26.224
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:29.438
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:39.090
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 13:17:49.045
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:49.100
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:52.223
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:54.374
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:56.506
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:17:59.572
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:18:03.505
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:18:08.242
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:18:15.557
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:18:27.266
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:18:29.432
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:18:33.693
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:18:35.807
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:18:56.968
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:19:08.660
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:19:14.765
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:19:18.963
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:19:22.203
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:19:41.922
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:19:48.438
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:19:51.669
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:19:59.635
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:20:11.126
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:20:21.888
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:20:25.103
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:20:31.151
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:20:37.377
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:20:45.422
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:20:52.550
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:20:54.662
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:10.886
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:15.695
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:18.172
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:24.863
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:28.380
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:34.933
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:40.429
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:43.501
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:47.610
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:52.151
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:21:58.296
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:22:01.826
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:22:23.570
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:22:29.126
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:22:43.046
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:22:48.098
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:00.742
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:02.993
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:12.286
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:14.415
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:22.093
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:24.326
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:29.651
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:41.470
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:49.031
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:51.132
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:23:56.425
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:27:18.601
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:27:25.880
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:27:28.020
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:27:34.767
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:27:47.235
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:27:58.669
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:28:06.435
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:28:12.934
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:28:16.210
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:28:21.696
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:28:32.566
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:28:34.649
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:28:45.883
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:28:49.252
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:28:52.429
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:31:40.060
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:31:45.815
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:31:56.312
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:32:08.316
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:32:13.325
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:32:25.452
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:32:27.631
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:33:43.696
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:33:45.842
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:33:55.254
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:34:02.067
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:34:13.060
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:34:17.140
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:34:26.768
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:34:31.857
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:34:42.209
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:34:45.735
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:34:58.046
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:00.221
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:06.013
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:13.206
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:27.897
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:32.599
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:38.258
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:41.347
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:45.424
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:51.389
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:35:58.443
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:43:12.145
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:43:18.650
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:43:32.198
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:43:36.589
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:43:40.645
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:43:47.986
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:43:56.683
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:45:15.820
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:47:24.781
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:47:28.499
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:47:36.241
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:47:41.368
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:47:53.084
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:00.354
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:05.148
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:07.282
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:18.254
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:20.335
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:25.828
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:27.967
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:31.454
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:53.534
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:48:59.448
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:02.554
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:09.567
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:15.173
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:18.966
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:23.421
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:31.930
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:37.866
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:42.648
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:47.399
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:49:48.453
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:50:07.331
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:50:24.280
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:50:26.447
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:50:30.783
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:50:35.940
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:50:40.994
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:50:45.146
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:50:54.944
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:51:05.320
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:51:10.572
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:51:14.276
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:51:16.489
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:51:19.891
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:51:23.296
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:51:30.916
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:55:48.490
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:56:40.915
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:57:00.521
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:57:03.614
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:57:09.765
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:57:20.131
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:57:26.972
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:57:42.426
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:57:46.003
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:57:49.180
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:57:51.274
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:58:14.915
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:58:23.295
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:58:26.369
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:58:31.326
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:58:34.500
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:58:40.813
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:58:45.199
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:58:58.177
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:59:01.429
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:59:04.606
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 13:59:14.213
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:00:27.129
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:00:29.286
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:00:52.196
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:01:04.616
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:01:30.969
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:01:35.372
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:01:37.538
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:01:43.004
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:01:54.645
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:01:57.852
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:02:01.029
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:02:07.762
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:02:15.944
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:02:33.257
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:02:39.706
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:02:45.518
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:02:53.014
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:03:00.622
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:03:12.238
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 14:03:15.598
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:03:17.816
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:03:20.888
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:03:40.903
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:03:44.979
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:08:39.819
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:09:21.308
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:09:27.948
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:09:33.226
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:09:38.711
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:09:46.037
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:09:49.254
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:09:51.371
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:09:55.671
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:10:01.171
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:10:08.674
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:10:12.154
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:10:14.249
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:10:19.387
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:10:25.728
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:10:33.912
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:10:37.587
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:10:41.898
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:11:03.145
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:11:20.051
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:11:28.090
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:11:33.887
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:11:39.223
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:11:44.674
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:15:38.528
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:15:40.915
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:16:22.633
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:16:27.755
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:16:34.338
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 14:16:38.624
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:16:39.049
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:16:49.275
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-01-04 14:16:53.652
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:16:53.994
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:16:57.297
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:00.701
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:04.142
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:09.723
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:16.047
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:20.684
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:30.624
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:33.889
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:38.122
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:42.788
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:45.914
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:52.012
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:55.085
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:17:58.255
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:18:03.437
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:18:08.131
+!MESSAGE Classpath changed for project: Quiz-Application
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-04 14:18:23.458
+!MESSAGE Classpath changed for project: Quiz-Application

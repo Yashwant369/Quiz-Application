@@ -1,0 +1,9 @@
+package com.yashwant.quiz_application.entity;
+
+import lombok.Data;
+
+@Data
+@E
+public class Question {
+
+}

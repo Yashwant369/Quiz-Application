@@ -1,0 +1,6 @@
+package com.yashwant.quiz_application.entity;
+
+
+public class Question {
+
+}

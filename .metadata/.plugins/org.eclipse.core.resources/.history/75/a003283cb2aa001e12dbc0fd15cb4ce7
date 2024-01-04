@@ -1,0 +1,6 @@
+package com.yashwant.quiz_application.configurations;
+
+@Configurations
+public class Configurations {
+
+}

@@ -1,0 +1,21 @@
+package com.yashwant.quiz_application.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
+import lombok.Data;
+
+@Data
+@Entity
+public class QuizResponse {
+	
+	@Id
+	private String quizResponseId;
+	private String questionId;
+	private String submitAnswer;
+	@ManyToOne(mappedBy = "responses")
+	private SubmitResponse response;
+	
+	
+
+}

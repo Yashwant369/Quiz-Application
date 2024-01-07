@@ -1,0 +1,9 @@
+package com.yashwant.quiz_application.service;
+
+import com.yashwant.quiz_application.entity.SubmitResponse;
+
+public interface SubmitResponse1 {
+	
+	public ApiResponse submitResponse(SubmitResponse response);
+
+}

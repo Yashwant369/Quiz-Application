@@ -1,0 +1,17 @@
+package com.yashwant.quiz_application.entity;
+
+import jakarta.persistence.Entity;
+import lombok.Data;
+
+@Entity
+@Data
+public class SubmitResponse {
+	
+	private String userId;
+	private String userName;
+	private String quizId;
+	private String slot;
+	private String classNumber;
+	private List<QuizResponse>
+
+}

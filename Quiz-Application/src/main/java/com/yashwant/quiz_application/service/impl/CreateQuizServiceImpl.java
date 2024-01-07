@@ -12,6 +12,7 @@ import org.springframework.stereotype.Service;
 import com.yashwant.quiz_application.dtos.CreateQuizDto;
 import com.yashwant.quiz_application.entity.CreateQuiz;
 import com.yashwant.quiz_application.entity.Question;
+import com.yashwant.quiz_application.exceptions.ResourceNotFoundException;
 import com.yashwant.quiz_application.repository.CreateQuizRepo;
 import com.yashwant.quiz_application.repository.QuestionRepo;
 import com.yashwant.quiz_application.service.CreateQuizService;
@@ -98,7 +99,9 @@ public class CreateQuizServiceImpl implements CreateQuizService{
 	@Override
 	public CreateQuizDto getQuizById(String quizId) {
 		// TODO Auto-generated method stub
-		return null;
+		
+		CreateQuiz quiz = quizRepo.findById(quizId).orElseThrow(()-> new ResourceNotFoundException("Quiz not found for given id " + quizId));
+		return mapper.map(quiz, CreateQuizDto.class);
 	}
 
 	@Override

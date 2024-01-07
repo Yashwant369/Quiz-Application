@@ -1,0 +1,35 @@
+package com.yashwant.quiz_application.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.yashwant.quiz_application.dtos.CreateQuizDto;
+import com.yashwant.quiz_application.repository.CreateQuizRepo;
+import com.yashwant.quiz_application.service.GetQuizService;
+import com.yashwant.quiz_application.util.GetQuizRequest;
+import com.yashwant.quiz_application.util.GetQuizResponse;
+
+@Service
+public class GetQuizServiceImpl implements GetQuizService {
+	
+	@Autowired
+	private CreateQuizRepo quizRepo;
+	
+	@Autowired
+	private CreateQuizServiceImpl quizService;
+
+	@Override
+	public GetQuizResponse getQuiz(GetQuizRequest request) {
+		// TODO Auto-generated method stub
+		
+		String quizid = request.getQuizId();
+		String slot = request.getSlot();
+		String classNumber = request.getClassNumber();
+		
+		CreateQuizDto quiz1 = quizService.getQuizById(quizid);
+		CreateQuiz quiz = mapper.map()
+		
+		return null;
+	}
+
+}

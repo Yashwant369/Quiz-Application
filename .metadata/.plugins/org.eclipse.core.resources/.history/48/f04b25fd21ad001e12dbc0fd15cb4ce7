@@ -1,0 +1,12 @@
+package com.yashwant.quiz_application.util;
+
+import lombok.Data;
+
+@Data
+public class GetQuizResponse {
+	
+	private String quizId;
+	private String slot;
+	
+
+}

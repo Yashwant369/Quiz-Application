@@ -1,0 +1,7 @@
+package com.yashwant.quiz_application.controller;
+
+@RestController
+@RequestMapping("/getQuiz")
+public class GetQuizController {
+
+}

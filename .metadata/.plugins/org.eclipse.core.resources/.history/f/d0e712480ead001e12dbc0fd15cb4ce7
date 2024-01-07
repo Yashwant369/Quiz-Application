@@ -1,0 +1,10 @@
+package com.yashwant.quiz_application.service;
+
+import com.yashwant.quiz_application.dtos.CreateQuizDto;
+import com.yashwant.quiz_application.util.CreateQuizRequest;
+
+public interface CreateQuizService {
+	
+	public CreateQuizDto createQuiz(CreateQuizRequest request);
+
+}

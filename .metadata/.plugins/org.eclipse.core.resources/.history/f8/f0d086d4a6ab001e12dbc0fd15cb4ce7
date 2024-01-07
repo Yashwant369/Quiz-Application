@@ -1,0 +1,58 @@
+package com.yashwant.quiz_application.service.impl;
+
+import com.yashwant.quiz_application.dtos.UserDto;
+import com.yashwant.quiz_application.service.UserService;
+import com.yashwant.quiz_application.util.PageResponse;
+
+public class UserServiceImpl implements UserService{
+
+	@Override
+	public UserDto createUser(UserDto userDto) {
+		// TODO Auto-generated method stub
+		String userId = UUID.randomUUID().toString();
+		userDto.setUserId(userId);
+		User user = mapper.map(userDto,User.class);
+		User newUser = userRepo.save(user);
+		UserDto newUserDto = mapper.map(newUser, UserDto.class);
+		return newUserDto;
+		return null;
+	}
+
+	@Override
+	public UserDto updateuser(UserDto userDto, String userId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteUser(String userId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public PageResponse<UserDto> getAllUsers(int pageNumber, int pageSize, String sortBy, String sortDir) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public UserDto getUserById(String userId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public UserDto getUserByEmail(String email) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public PageResponse<UserDto> getUserByName(String name, int pageNumber, int pageSize, String sortBy,
+			String sortDir) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

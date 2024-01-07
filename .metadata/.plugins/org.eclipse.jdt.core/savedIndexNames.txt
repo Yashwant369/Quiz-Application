@@ -48,7 +48,6 @@ INDEX VERSION 1.134+E:\Quiz Application\.metadata\.plugins\org.eclipse.jdt.core
 2203012132.index
 1071723810.index
 1443609925.index
-687082384.index
 2616283413.index
 1350247097.index
 1394252468.index

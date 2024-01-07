@@ -1,0 +1,6 @@
+package com.yashwant.quiz_application.dtos;
+
+@Data
+public class UserDto {
+
+}

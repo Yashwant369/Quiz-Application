@@ -1,0 +1,10 @@
+package com.yashwant.quiz_application.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.yashwant.quiz_application.service.CreateQuizService;
+
+@Service
+public class CreateQuizServiceImpl implements CreateQuizService{
+
+}

@@ -1,0 +1,45 @@
+package com.yashwant.quiz_application.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.yashwant.quiz_application.dtos.CreateQuizDto;
+import com.yashwant.quiz_application.service.CreateQuizService;
+import com.yashwant.quiz_application.util.ApiResponse;
+import com.yashwant.quiz_application.util.CreateQuizRequest;
+import com.yashwant.quiz_application.util.PageResponse;
+
+@Service
+public class CreateQuizServiceImpl implements CreateQuizService{
+
+	@Override
+	public CreateQuizDto createQuiz(CreateQuizRequest request) {
+		// TODO Auto-generated method stub
+		CreateQuiz quiz = new 
+		return null;
+	}
+
+	@Override
+	public CreateQuizDto updateQuiz(String quizId, CreateQuizRequest request) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ApiResponse deleteQuiz(String quizId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public CreateQuizDto getQuizById(String quizId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public PageResponse<CreateQuizDto> getAllQuiz() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.yashwant.quiz_application.dtos;
+
+import lombok.Data;
+
+@Data
+public class CreateQuizDto {
+
+}

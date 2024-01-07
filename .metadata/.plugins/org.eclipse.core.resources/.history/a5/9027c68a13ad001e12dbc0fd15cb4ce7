@@ -1,0 +1,95 @@
+package com.yashwant.quiz_application.service.impl;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+import java.util.UUID;
+
+import org.modelmapper.ModelMapper;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.yashwant.quiz_application.dtos.CreateQuizDto;
+import com.yashwant.quiz_application.entity.CreateQuiz;
+import com.yashwant.quiz_application.entity.Question;
+import com.yashwant.quiz_application.repository.CreateQuizRepo;
+import com.yashwant.quiz_application.repository.QuestionRepo;
+import com.yashwant.quiz_application.service.CreateQuizService;
+import com.yashwant.quiz_application.util.ApiResponse;
+import com.yashwant.quiz_application.util.CreateQuizRequest;
+import com.yashwant.quiz_application.util.PageResponse;
+
+@Service
+public class CreateQuizServiceImpl implements CreateQuizService{
+	
+	@Autowired
+	private CreateQuizRepo quizRepo;
+	
+	@Autowired
+	private ModelMapper mapper;
+	
+	@Autowired
+	private QuestionRepo questionRepo;
+	
+
+	@Override
+	public CreateQuizDto createQuiz(CreateQuizRequest request) {
+		// TODO Auto-generated method stub
+		CreateQuiz quiz = new CreateQuiz();
+		String quizId = UUID.randomUUID().toString();
+		quiz.setQuizId(quizId);
+		quiz.setClassNumber(request.getClassNumber());
+		quiz.setCreatedDate(new Date());
+		quiz.setEasyQuestions(request.getEasyQuestions());
+		quiz.setHardQuestions(request.getHardQuestions());
+		quiz.setInstructions(request.getInstructions());
+		quiz.setMediumQuestions(request.getMediumQuestions());
+		quiz.setSlot(request.getSlot());
+		int totalQuestion = request.getEasyQuestions()+request.getMediumQuestions() + request.getHardQuestions();
+		quiz.setTotalQuestions(totalQuestion);
+		quiz.setQuestionCategory(request.getQuestionCategory());
+		List<Question>questions = new ArrayList<>();
+		
+		List<Question>easyQuestion = new ArrayList<>();
+		List<Question>mediumQuestion = new ArrayList<>();
+		List<Question>hardQuestion = new ArrayList<>();
+		
+		Integer easy = request.getEasyQuestions();
+		Integer medium = request.getMediumQuestions();
+		Integer hard = request.getHardQuestions();
+		String category = request.getQuestionCategory();
+		
+		if(request.getEasyQuestions() > 0)
+		{
+			String level = "Easy";
+			easyQuestion = questionRepo.getEasyQuestion(easy, category, level);
+		}
+		if(equest)
+		return null;
+	}
+
+	@Override
+	public CreateQuizDto updateQuiz(String quizId, CreateQuizRequest request) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ApiResponse deleteQuiz(String quizId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public CreateQuizDto getQuizById(String quizId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public PageResponse<CreateQuizDto> getAllQuiz() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

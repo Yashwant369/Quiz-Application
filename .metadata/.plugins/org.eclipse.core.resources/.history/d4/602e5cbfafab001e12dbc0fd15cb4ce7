@@ -1,0 +1,5 @@
+package com.yashwant.quiz_application.repository;
+
+public interface CreateQuizRepo extends JpaRepository<CreateQuiz, String> {
+
+}

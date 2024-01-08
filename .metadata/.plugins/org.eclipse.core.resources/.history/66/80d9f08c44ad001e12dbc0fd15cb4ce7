@@ -1,7 +1,0 @@
-package com.yashwant.quiz_application.entity;
-
-@Data
-@
-public class QuizResponse {
-
-}

@@ -1,0 +1,6 @@
+package com.yashwant.quiz_application.util;
+
+@Data
+public class GetReportRequest {
+
+}

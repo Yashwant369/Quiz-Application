@@ -1,0 +1,14 @@
+package com.yashwant.quiz_application.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+
+import com.yashwant.quiz_application.entity.SubmitResponse;
+
+public interface SubmitResponseRepo extends JpaRepository<SubmitResponse, String> {
+
+	
+    @Query(value = "select * from submit_response where user_id = :", nativeQuery = true)
+	SubmitResponse findResponse(String userId, String quizId);
+
+}

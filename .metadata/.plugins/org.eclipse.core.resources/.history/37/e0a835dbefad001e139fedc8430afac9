@@ -1,0 +1,28 @@
+package com.yashwant.quiz_application.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.yashwant.quiz_application.service.impl.GetReportServiceImpl;
+import com.yashwant.quiz_application.util.GetReportRequest;
+import com.yashwant.quiz_application.util.GetReportResponse;
+
+@RestController
+@RequestMapping("/getReport")
+public class GetReportController 
+{
+	@Autowired
+	private GetReportServiceImpl reportService; 
+	
+	@GetMapping("/")
+	public ResponseEntity<GetReportResponse>getReport(@RequestBody GetReportRequest request)
+	{
+		GetReportResponse response = reportService.getReport(request);
+		return new ResponseEntity<>(response, HttpStatus.OK);
+	}
+
+}

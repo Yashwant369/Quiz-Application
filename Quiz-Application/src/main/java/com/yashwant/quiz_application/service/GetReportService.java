@@ -1,0 +1,10 @@
+package com.yashwant.quiz_application.service;
+
+import com.yashwant.quiz_application.util.GetReportRequest;
+import com.yashwant.quiz_application.util.GetReportResponse;
+
+public interface GetReportService {
+	
+	GetReportResponse getReport(GetReportRequest request);
+
+}

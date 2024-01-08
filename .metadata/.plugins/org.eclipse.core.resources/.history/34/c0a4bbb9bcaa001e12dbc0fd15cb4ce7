@@ -1,7 +1,0 @@
-package com.yashwant.quiz_application.controller;
-
-@RestController
-@RequestMapping("")
-public class QuestionController {
-
-}

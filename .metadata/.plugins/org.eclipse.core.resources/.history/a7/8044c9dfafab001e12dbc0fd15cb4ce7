@@ -1,6 +1,0 @@
-package com.yashwant.quiz_application.service.impl;
-
-@Service
-public class CreateQuizServiceImpl {
-
-}

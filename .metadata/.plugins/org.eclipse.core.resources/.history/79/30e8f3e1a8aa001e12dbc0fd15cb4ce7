@@ -1,9 +1,0 @@
-package com.yashwant.quiz_application.service;
-
-import com.yashwant.quiz_application.dtos.QuestionDto;
-
-public interface QuestionService {
-	
-	public QuestionDto createQuestion(QuestionDto questionDto);
-
-}

@@ -1,0 +1,19 @@
+package com.yashwant.quiz_application.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.yashwant.quiz_application.service.GetReportService;
+import com.yashwant.quiz_application.util.GetReportRequest;
+import com.yashwant.quiz_application.util.GetReportResponse;
+
+@Service
+public class GetReportServiceImpl implements GetReportService {
+
+	@Override
+	public GetReportResponse getReport(GetReportRequest request) {
+		// TODO Auto-generated method stub
+		String 
+		return null;
+	}
+
+}

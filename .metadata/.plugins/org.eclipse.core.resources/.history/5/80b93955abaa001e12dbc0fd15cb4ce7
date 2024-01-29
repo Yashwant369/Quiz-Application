@@ -1,8 +1,0 @@
-package com.yashwant.quiz_application.exceptions;
-
-
-public class ResourceNotFoundException extends RuntimeException {
-	
-	
-
-}

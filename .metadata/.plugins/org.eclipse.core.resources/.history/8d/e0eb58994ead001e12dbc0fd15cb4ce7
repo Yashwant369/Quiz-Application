@@ -1,9 +1,0 @@
-package com.yashwant.quiz_application.service;
-
-import com.yashwant.quiz_application.dtos.SubmitResponseDto;
-
-public interface SubmitResponse {
-	
-	public SubmitResponseDto submitResponse(SubmitResponseDto responseDto);
-
-}

@@ -1,6 +1,0 @@
-package com.yashwant.quiz_application.configurations;
-
-@Configuration
-public class Configurations {
-
-}

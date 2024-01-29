@@ -1,9 +1,0 @@
-package com.yashwant.quiz_application.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.yashwant.quiz_application.entity.User;
-
-public interface UserRepo extends JpaRepository<User, String>{
-
-}

@@ -11,6 +11,6 @@ public interface CreateQuizService {
 	public CreateQuizDto updateQuiz(String quizId, CreateQuizRequest request);
 	public ApiResponse deleteQuiz(String quizId);
 	public CreateQuizDto getQuizById(String quizId);
-	public PageResponse<CreateQuizDto>getAllQuiz();
+	public PageResponse<CreateQuizDto>getAllQuiz(int pageNumber, int pageSize, String sortBy, String sortDir);
 
 }

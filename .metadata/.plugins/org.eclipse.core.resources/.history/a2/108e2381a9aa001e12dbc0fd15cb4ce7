@@ -1,5 +1,0 @@
-package com.yashwant.quiz_application.util;
-
-public class PageResponse<T> {
-
-}

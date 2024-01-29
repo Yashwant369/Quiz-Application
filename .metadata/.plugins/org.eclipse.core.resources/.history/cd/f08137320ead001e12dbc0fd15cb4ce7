@@ -1,7 +1,0 @@
-package com.yashwant.quiz_application.service;
-
-public interface CreateQuizService {
-	
-	public CreateQuizDto
-
-}

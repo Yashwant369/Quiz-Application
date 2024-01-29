@@ -2,4 +2,5 @@
 <typeInfoHistroy>
     <typeInfo handle="=Quiz-Application/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.yashwant.quiz_application.service{QuestionService.java[QuestionService" modifiers="513" timestamp="1704342645452"/>
     <typeInfo handle="=Quiz-Application/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.yashwant.quiz_application.service{GetQuizService.java[GetQuizService" modifiers="513" timestamp="1704608176887"/>
+    <typeInfo handle="=Quiz-Application/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.yashwant.quiz_application.service{GetReportService.java[GetReportService" modifiers="513" timestamp="1704686929451"/>
 </typeInfoHistroy>

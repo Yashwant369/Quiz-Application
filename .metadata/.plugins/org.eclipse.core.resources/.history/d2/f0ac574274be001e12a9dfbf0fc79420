@@ -1,0 +1,160 @@
+package com.yashwant.quiz_application.service.impl;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+import java.util.UUID;
+
+import org.modelmapper.ModelMapper;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
+import org.springframework.http.HttpStatus;
+import org.springframework.stereotype.Service;
+
+import com.yashwant.quiz_application.dtos.CreateQuizDto;
+import com.yashwant.quiz_application.dtos.UserDto;
+import com.yashwant.quiz_application.entity.CreateQuiz;
+import com.yashwant.quiz_application.entity.Question;
+import com.yashwant.quiz_application.entity.User;
+import com.yashwant.quiz_application.exceptions.ResourceNotFoundException;
+import com.yashwant.quiz_application.repository.CreateQuizRepo;
+import com.yashwant.quiz_application.repository.QuestionRepo;
+import com.yashwant.quiz_application.service.CreateQuizService;
+import com.yashwant.quiz_application.util.ApiResponse;
+import com.yashwant.quiz_application.util.CreateQuizRequest;
+import com.yashwant.quiz_application.util.PageResponse;
+
+@Service
+public class CreateQuizServiceImpl implements CreateQuizService{
+	
+	@Autowired
+	private CreateQuizRepo quizRepo;
+	
+	@Autowired
+	private ModelMapper mapper;
+	
+	@Autowired
+	private QuestionRepo questionRepo;
+	
+
+	@Override
+	public CreateQuizDto createQuiz(CreateQuizRequest request) {
+		// TODO Auto-generated method stub
+		CreateQuiz quiz = new CreateQuiz();
+		String quizId = UUID.randomUUID().toString();
+		quiz.setQuizId(quizId);
+		quiz.setClassNumber(request.getClassNumber());
+		quiz.setCreatedDate(new Date());
+		quiz.setEasyQuestions(request.getEasyQuestions());
+		quiz.setHardQuestions(request.getHardQuestions());
+		quiz.setInstructions(request.getInstructions());
+		quiz.setMediumQuestions(request.getMediumQuestions());
+		quiz.setSlot(request.getSlot());
+		int totalQuestion = request.getEasyQuestions()+request.getMediumQuestions() + request.getHardQuestions();
+		quiz.setTotalQuestions(totalQuestion);
+		quiz.setQuestionCategory(request.getQuestionCategory());
+		List<Question>questions = new ArrayList<>();
+		
+		List<Question>easyQuestion = new ArrayList<>();
+		List<Question>mediumQuestion = new ArrayList<>();
+		List<Question>hardQuestion = new ArrayList<>();
+		
+		int easy = request.getEasyQuestions();
+		int medium = request.getMediumQuestions();
+		int hard = request.getHardQuestions();
+		String category = request.getQuestionCategory();
+		
+		if(easy > 0)
+		{
+			String level = "Easy";
+			easyQuestion = questionRepo.getEasyQuestion(easy, category, level);
+		}
+		if(medium > 0)
+		{
+			String level = "Medium";
+			mediumQuestion = questionRepo.getMediumQuestion(medium,category, level);
+		}
+		if(hard > 0)
+		{
+			String level = "Hard";
+			hardQuestion = questionRepo.getHardQuestion(hard, category, level);
+		}
+		questions.addAll(hardQuestion);
+		questions.addAll(easyQuestion);
+		questions.addAll(mediumQuestion);
+		quiz.setQuestions(questions);
+		CreateQuiz newQuiz = quizRepo.save(quiz);
+		return mapper.map(newQuiz, CreateQuizDto.class);
+	}
+
+	@Override
+	public CreateQuizDto updateQuiz(String quizId, CreateQuizRequest request) {
+		// TODO Auto-generated method stub
+		
+		
+		return null;
+	}
+
+	@Override
+	public ApiResponse deleteQuiz(String quizId) {
+		// TODO Auto-generated method stub
+		CreateQuiz quiz = quizRepo.findById(quizId).orElseThrow(()-> new ResourceNotFoundException("Quiz not found for given id " + quizId));
+		quizRepo.delete(quiz);
+		ApiResponse response = new ApiResponse();
+		response.setMessage("Quiz deleted for given id : " + quizId);
+		response.setStatus(HttpStatus.OK);
+		response.setSuccess(true);
+		return response;
+		}
+
+	@Override
+	public CreateQuizDto getQuizById(String quizId) {
+		// TODO Auto-generated method stub
+		
+		CreateQuiz quiz = quizRepo.findById(quizId).orElseThrow(()-> new ResourceNotFoundException("Quiz not found for given id " + quizId));
+		return mapper.map(quiz, CreateQuizDto.class);
+	}
+
+	@Override
+	public PageResponse<CreateQuizDto> getAllQuiz(int pageNumber, int pageSize, String sortBy, String sortDir) {
+		// TODO Auto-generated method stub
+		
+		Sort sort = null;
+		if(sortDir.equals("asc"))
+		{
+			sort = Sort.by(sortBy).ascending();
+		}
+		else if(sortDir.equals("desc"))
+		{
+			sort = Sort.by(sortBy).descending();
+		}
+		//Sort sort = Sort.by(sortBy);
+		Pageable pageable = PageRequest.of(pageNumber, pageSize, sort);
+		Page<CreateQuiz>page = quizRepo.findAll(pageable);
+		List<CreateQuiz>quizes = page.getContent();
+		if(quizes.size() == 0)
+		{
+			throw new ResourceNotFoundException("Quiz not present");
+		}
+		List<CreateQuizDto>list = new ArrayList<>();
+		for(CreateQuiz q : quizes)
+		{
+			CreateQuizDto quizDto = mapper.map(q, CreateQuizDto.class);
+			list.add(quizDto);
+		}
+		PageResponse<CreateQuizDto>response = new PageResponse<>();
+		response.setContent(list);
+		response.setLastPage(page.isLast());
+		response.setPageNumber(page.getNumber());
+		response.setPageSize(page.getSize());
+		response.setTotalElements((int) page.getTotalElements());
+		response.setTotalPages(page.getTotalPages());
+		return response;
+		
+		
+	}
+
+}

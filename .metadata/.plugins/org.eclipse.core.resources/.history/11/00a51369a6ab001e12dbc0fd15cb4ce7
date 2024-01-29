@@ -1,7 +1,0 @@
-package com.yashwant.quiz_application.service.impl;
-
-import com.yashwant.quiz_application.service.UserService;
-
-public class UserServiceImpl implements UserService{
-
-}

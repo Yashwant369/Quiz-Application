@@ -1,5 +1,0 @@
-package com.yashwant.quiz_application.repository;
-
-public interface UserRepo {
-
-}

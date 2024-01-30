@@ -12,6 +12,8 @@ import com.yashwant.quiz_application.service.impl.GetQuizServiceImpl;
 import com.yashwant.quiz_application.util.GetQuizRequest;
 import com.yashwant.quiz_application.util.GetQuizResponse;
 
+import jakarta.validation.Valid;
+
 @RestController
 @RequestMapping("/getQuiz")
 public class GetQuizController {
@@ -20,7 +22,7 @@ public class GetQuizController {
 	private GetQuizServiceImpl getQuizService;
 	
 	@GetMapping("/")
-	public ResponseEntity<GetQuizResponse>getQuiz(@RequestBody GetQuizRequest request)
+	public ResponseEntity<GetQuizResponse>getQuiz(@Valid @RequestBody GetQuizRequest request)
 	{
 		GetQuizResponse response = getQuizService.getQuiz(request);
 		return new ResponseEntity<>(response, HttpStatus.OK);

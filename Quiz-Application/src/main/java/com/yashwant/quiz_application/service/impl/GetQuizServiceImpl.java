@@ -1,6 +1,7 @@
 package com.yashwant.quiz_application.service.impl;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import org.modelmapper.ModelMapper;
@@ -59,6 +60,7 @@ public class GetQuizServiceImpl implements GetQuizService {
 			question.add(que);
 
 		}
+		Collections.shuffle(question);
 		response.setQuestions(question);
 		return response;
 	}

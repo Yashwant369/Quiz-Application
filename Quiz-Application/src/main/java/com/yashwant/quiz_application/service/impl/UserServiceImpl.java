@@ -10,11 +10,14 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
+import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import com.yashwant.quiz_application.dtos.UserDto;
+import com.yashwant.quiz_application.entity.Role;
 import com.yashwant.quiz_application.entity.User;
 import com.yashwant.quiz_application.exceptions.ResourceNotFoundException;
+import com.yashwant.quiz_application.repository.RoleRepo;
 import com.yashwant.quiz_application.repository.UserRepo;
 import com.yashwant.quiz_application.service.UserService;
 import com.yashwant.quiz_application.util.PageResponse;
@@ -27,13 +30,24 @@ public class UserServiceImpl implements UserService{
 	
 	@Autowired
 	private ModelMapper mapper;
+	
+	@Autowired
+	private PasswordEncoder passwordEncoder;
+	
+	String roleId = "user";
+	
+	@Autowired
+	private RoleRepo roleRepo;
 
 	@Override
 	public UserDto createUser(UserDto userDto) {
 		// TODO Auto-generated method stub
 		String userId = UUID.randomUUID().toString();
 		userDto.setUserId(userId);
+		userDto.setPassword(passwordEncoder.encode(userDto.getPassword()));
 		User user = mapper.map(userDto,User.class);
+		Role role = roleRepo.findById(roleId).get();
+		user.getRoles().add(role);
 		User newUser = userRepo.save(user);
 		UserDto newUserDto = mapper.map(newUser, UserDto.class);
 		return newUserDto;
@@ -47,7 +61,7 @@ public class UserServiceImpl implements UserService{
 				orElseThrow(()-> new ResourceNotFoundException("User not found with given id : " + userId));
 				user.setUserName(userDto.getUserName());
 				user.setUserEmail(userDto.getUserEmail());
-				user.setPassword(userDto.getPassword());
+				user.setUserPassword(userDto.getPassword());
 				User updatedUser = userRepo.save(user);
 				UserDto updatedUserDto = mapper.map(updatedUser,UserDto.class);
 				return updatedUserDto;

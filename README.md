@@ -60,10 +60,10 @@ Quiz Application is a REST API designed for creating and managing quizzes. Admin
 - Bean Validation
   ![image](https://github.com/Yashwant369/Quiz-Application/assets/71956889/378d43b2-396a-432c-a411-0b9500bfbae8)
 
-- Get all question
+- Get all Question
   ![image](https://github.com/Yashwant369/Quiz-Application/assets/71956889/250949bb-2328-4b19-8978-8e5d233e485f)
 
-  Implementation of pagination and sorting
+  Implementation of Pagination and Sorting
   ![image](https://github.com/Yashwant369/Quiz-Application/assets/71956889/c62d953b-da22-4242-9ba0-6edc6c2acb5c)
 
 - Get Question By Id
@@ -76,8 +76,9 @@ Quiz Application is a REST API designed for creating and managing quizzes. Admin
   ![image](https://github.com/Yashwant369/Quiz-Application/assets/71956889/716d476d-51c5-496a-88fc-e448a2b04c94)
 
 - Update Question
-  Implemented Customized Exception Handling
-  ![image](https://github.com/Yashwant369/Quiz-Application/assets/71956889/98e6be9b-6e85-400a-89df-7a59c39850e9)
+  
+   Implemented Customized Exception Handling
+   ![image](https://github.com/Yashwant369/Quiz-Application/assets/71956889/98e6be9b-6e85-400a-89df-7a59c39850e9)
 
 - Delete Question
   ![image](https://github.com/Yashwant369/Quiz-Application/assets/71956889/d46d743b-a3ad-4d7e-b6d8-c72b70003834)
